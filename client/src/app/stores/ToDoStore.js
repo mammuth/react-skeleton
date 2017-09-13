@@ -1,5 +1,5 @@
 /*
- * Example MobX Store that periodically fetches an API endpoint. Components can react to changes by adding the @observer annotation
+ * Example MobX Store that periodically fetches an API endpoint. Components can react to changes by adding the @observer annotation from mobx-react
  */
 import request from 'request-promise';
 import { observable, computed } from 'mobx';
