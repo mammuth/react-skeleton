@@ -7,7 +7,7 @@ This is a base skeleton I like to use for small new React apps.
 Features / Stack:
 - React
 - Webpack
-- MobX
+- MobX (State Management)
 - Bootstrap
 - Hot Module Reload
 - Less 
